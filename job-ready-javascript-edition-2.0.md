@@ -33,6 +33,18 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 **Goal:** Become Proficient with HTML, CSS and JavaScript.
 - [ ] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
 - [ ] Course - [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  on edX
+   - [x] Week 0
+    - [ ] Week 1
+    - [ ] Week 2
+    - [ ] Week 3
+    - [ ] Week 4
+    - [ ] Week 5
+    - [ ] Week 6
+    - [ ] Week 7
+    - [ ] Week 8
+    - [ ] Week 9
+    - [ ] Week 10
+    - [ ] Week 11
 - [ ] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) 
 - [x] Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)    
 - [ ] Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
