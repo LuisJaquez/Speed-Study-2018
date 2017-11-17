@@ -11,3 +11,11 @@
 * 1 Hour Algebra.
 * 2 Cap YDKJS Up & Going
 * Pset1 CS50 Done
+
+### Day 3− November 16, 2017
+
+* 1 Hour Algebra.
+* Continue YDKJS Up & Going.
+* Working with CS50 Pset2.
+* Prototyping my portfolio site.
+* DOpodcast Gulp course Done.
