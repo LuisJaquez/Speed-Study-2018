@@ -19,3 +19,10 @@
 * Working with CS50 Pset2.
 * Prototyping my portfolio site.
 * DOpodcast Gulp course Done.
+
+### Day 4− November 17, 2017
+
+* 1 Hour Algebra.
+* Continue YDKJS Up & Going.
+* Day 9 CSS Challenge Done.
+* Cap 4 Pug course.
