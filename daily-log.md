@@ -26,3 +26,16 @@
 * Continue YDKJS Up & Going.
 * Day 9 CSS Challenge Done.
 * Cap 4 Pug course.
+
+**Day 5− November 18, 2017**
+
+* 1 Hour Algebra.
+* Continue YDKJS Up & Going.
+* Cap 7 Pug course.
+* Working in my portafolio.
+
+**Day 5− November 19, 2017**
+
+* 1 Hour Algebra.
+* Course Pug course Done.
+* Working in my portafolio.
