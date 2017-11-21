@@ -34,8 +34,15 @@
 * Cap 7 Pug course.
 * Working in my portafolio.
 
-**Day 5− November 19, 2017**
+**Day 6− November 19, 2017**
 
 * 1 Hour Algebra.
 * Course Pug course Done.
 * Working in my portafolio.
+
+**Day 7− November 20, 2017**
+
+* 1 Hour Algebra.
+* Working in my portafolio.
+* JuanWMedia JS course.
+* Working with Gulp.js.
