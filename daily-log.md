@@ -46,3 +46,8 @@
 * Working in my portafolio.
 * JuanWMedia JS course.
 * Working with Gulp.js.
+
+### Day 8− November 21, 2017
+
+* 1 Hour Algebra.
+* JuanWMedia JS course.
