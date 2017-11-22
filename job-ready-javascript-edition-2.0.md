@@ -17,7 +17,17 @@ A guide primarily focused on Frontend development, but including just enough of 
 
 ---
 
+## Added Myself
+
+- [ ] Aprende JavaScript esencial.
+- [x] Crea tu workflow front-end con Gulp.js.
+- [ ] Aprende jQuery de una vez por todas.
+- [ ] Entendiendo CSS Grid.
+- [ ] Aprende Vue.js esencial.
+- [x] Coding Artist Pure How To Make Pure CSS Image Course.
+
 ## Tier 0 - Prep
+
 **Goal:** Be comfortable with git by midway through Tier 1, and comfortable with Precalculus by midway through Tier 2. 
 
 _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the rest of the guide as you progress through the other Tiers._
