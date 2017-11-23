@@ -18,13 +18,13 @@
 * Continue YDKJS Up & Going.
 * Working with CS50 Pset2.
 * Prototyping my portfolio site.
-* DOpodcast Gulp course Done.
+* DOpodcast Gulp course DONE.
 
 ### Day 4− November 17, 2017
 
 * 1 Hour Algebra.
 * Continue YDKJS Up & Going.
-* Day 9 CSS Challenge Done.
+* Day 9 CSS Challenge DONE.
 * Cap 4 Pug course.
 
 **Day 5− November 18, 2017**
@@ -37,7 +37,7 @@
 **Day 6− November 19, 2017**
 
 * 1 Hour Algebra.
-* Course Pug course Done.
+* Course Pug course DONE.
 * Working in my portafolio.
 
 **Day 7− November 20, 2017**
@@ -51,3 +51,8 @@
 
 * 1 Hour Algebra.
 * JuanWMedia JS course.
+
+### Day 9− November 22, 2017
+
+* JuanWMedia JS course DONE.
+* 1 Hour Algebra.
