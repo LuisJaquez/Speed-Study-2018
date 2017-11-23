@@ -19,7 +19,7 @@ A guide primarily focused on Frontend development, but including just enough of 
 
 ## Added Myself
 
-- [ ] Aprende JavaScript esencial.
+- [x] Aprende JavaScript esencial.
 - [x] Crea tu workflow front-end con Gulp.js.
 - [ ] Aprende jQuery de una vez por todas.
 - [ ] Entendiendo CSS Grid.
