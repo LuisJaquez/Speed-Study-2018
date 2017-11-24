@@ -56,3 +56,8 @@
 
 * JuanWMedia JS course DONE.
 * 1 Hour Algebra.
+
+### Day 10− November 23, 2017
+
+* JuanWMedia CSS Grid course.
+* Working in P1xt Web Template proyect.
