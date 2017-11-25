@@ -65,3 +65,7 @@
 ### Day 11− November 24, 2017
 
 * Created esential Gulp.js workflow.
+
+### Day 12− November 25, 2017
+
+* JuanWMedia jQuery  course.
