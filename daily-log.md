@@ -61,3 +61,7 @@
 
 * JuanWMedia CSS Grid course.
 * Working in P1xt Web Template proyect.
+
+### Day 11− November 24, 2017
+
+* Created esential Gulp.js workflow.
