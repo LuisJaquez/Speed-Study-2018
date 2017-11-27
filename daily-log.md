@@ -69,3 +69,8 @@
 ### Day 12− November 25, 2017
 
 * JuanWMedia jQuery  course.
+
+### Day 13− November 26, 2017
+
+* JuanWMedia jQuery  course.
+* Reading a lot of articles about web development.
