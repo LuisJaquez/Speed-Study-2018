@@ -68,9 +68,15 @@
 
 ### Day 12− November 25, 2017
 
-* JuanWMedia jQuery  course.
+* JuanWMedia jQuery course.
 
 ### Day 13− November 26, 2017
 
-* JuanWMedia jQuery  course.
+* JuanWMedia jQuery course.
 * Reading a lot of articles about web development.
+
+### Day 14− November 27, 2017
+
+* Finished YDKJS Up & Going.
+* Continue JuanWMedia jQuery course.
+* Read 1 chapter of YDKJS Scope & Closures.
