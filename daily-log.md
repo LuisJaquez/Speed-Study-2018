@@ -80,3 +80,9 @@
 * Finished YDKJS Up & Going.
 * Continue JuanWMedia jQuery course.
 * Read 1 chapter of YDKJS Scope & Closures.
+
+### Day 15− November 28, 2017
+
+* Continue JuanWMedia jQuery course.
+* Read 2 chapter of YDKJS Scope & Closures.
+* Added Gulp automation to Blog Template proyect.
