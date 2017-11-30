@@ -86,3 +86,7 @@
 * Continue JuanWMedia jQuery course.
 * Read 2 chapter of YDKJS Scope & Closures.
 * Added Gulp automation to Blog Template proyect.
+
+### Day 16− November 29, 2017
+
+* Completed 12 Basic Algoritmn Scripting
