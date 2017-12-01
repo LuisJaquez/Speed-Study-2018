@@ -89,4 +89,9 @@
 
 ### Day 16− November 29, 2017
 
-* Completed 12 Basic Algoritmn Scripting
+* Completed 12  FCC Basic Algoritmn Scripting.
+
+###  Day 17− November 30, 2017
+
+* Finished FCC  Basic Algoritmn Scripting.
+* Finished  FCC JSON APIs and Ajax.
