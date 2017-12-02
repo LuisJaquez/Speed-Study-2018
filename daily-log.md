@@ -84,7 +84,7 @@
 ### Day 15− November 28, 2017
 
 * Continue JuanWMedia jQuery course.
-* Read 2 chapter of YDKJS Scope & Closures.
+* Day 17− November 30, 2017
 * Added Gulp automation to Blog Template proyect.
 
 ### Day 16− November 29, 2017
@@ -95,3 +95,7 @@
 
 * Finished FCC  Basic Algoritmn Scripting.
 * Finished  FCC JSON APIs and Ajax.
+
+### Day 18− December 1, 2017
+
+* Read 2-3 chapter of YDKJS Scope & Closures.
