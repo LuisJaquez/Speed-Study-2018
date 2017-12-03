@@ -99,3 +99,7 @@
 ### Day 18− December 1, 2017
 
 * Read 2-3 chapter of YDKJS Scope & Closures.
+
+### Day 19− December 2, 2017
+
+* Read 1-2 Chapter of Mastering Git.
