@@ -103,3 +103,7 @@
 ### Day 19− December 2, 2017
 
 * Read 1-2 Chapter of Mastering Git.
+
+### Day 20− December 3, 2017
+
+* Ernq 1 Puncgre Znfgrevat Tvg
