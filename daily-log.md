@@ -106,4 +106,8 @@
 
 ### Day 20− December 3, 2017
 
-* Ernq 1 Puncgre Znfgrevat Tvg
+* Ernq 1 Puncgre Znfgrevat Tvg.
+
+### Day 21− December 4, 2017
+
+* Only read about C++, not productive day.
