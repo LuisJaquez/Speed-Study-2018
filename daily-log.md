@@ -111,3 +111,7 @@
 ### Day 21− December 4, 2017
 
 * Only read about C++, not productive day.
+
+### Day 22− December 5, 2017
+
+* No code, only whatching code conferences.
