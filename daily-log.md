@@ -115,3 +115,7 @@
 ### Day 22− December 5, 2017
 
 * No code, only whatching code conferences.
+
+### Day 23− December 6, 2017
+
+* Planning FCC SpeedRun.
