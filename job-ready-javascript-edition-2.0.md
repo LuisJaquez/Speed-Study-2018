@@ -69,7 +69,7 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [x] Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)  
 - [ ] Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose. 
 - [x] Course: [Getting Sassy with CSS](http://www.sassshop.com/#/)
-- [ ] Project: [100 Days of CSS](https://100dayscss.com/), scroll to the bottom of that page, beginning with #001, recreate the images, in CodePen. Start the first one now and set a goal of finishing as many as you can by the end of Tier 3. (Intent: Build a presence on CodePen as a proficient HTML/(S)CSS developer to add another online body of work alongside your growing GitHub profile.)
+- [x] Project: [100 Days of CSS](https://100dayscss.com/), scroll to the bottom of that page, beginning with #001, recreate the images, in CodePen. Start the first one now and set a goal of finishing as many as you can by the end of Tier 3. (Intent: Build a presence on CodePen as a proficient HTML/(S)CSS developer to add another online body of work alongside your growing GitHub profile.)
 - [ ] Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)  
 - [ ] Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.  
 ---
