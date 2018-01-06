@@ -119,3 +119,7 @@
 ### Day 23− December 6, 2017
 
 * Planning FCC SpeedRun.
+
+### Day 0− January 6, 2018
+
+* Restarting the count.
