@@ -17,8 +17,10 @@ Total Points earned:
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
-|  |  |  |  |
-
+| 1-08-2018 |Duolingo(English level 11)  | 100 | [Duolingo](https://www.duolingo.com/LuisJaquez2) |
+| 1-08-2018 |Workout  | 10 | Run (60 Minutes) |
+| 1-08-2018 |Book  | 200 | [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) |
+| 1-08-2018 |Work In Progress  |  | Pick a template proyect #1 |
 
 # Get Job ready - JavaScript Edition - Version 2.0
 A guide primarily focused on Frontend development, but including just enough of an introduction to Backend to enable an understanding of the "entire process" to prepare for productive entry to a Full Stack team as a confident and capable Frontend Developer.
@@ -69,7 +71,7 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
     - [ ] Week 9
     - [ ] Week 10
     - [ ] Week 11
-- [ ] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) 
+- [x] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) 
 - [x] Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)    
 - [ ] Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
 - [ ] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
