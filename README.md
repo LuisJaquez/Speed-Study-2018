@@ -20,7 +20,8 @@ Total Points earned:
 | 1-08-2018 |Duolingo(English level 11)  | 100 | [Duolingo](https://www.duolingo.com/LuisJaquez2) |
 | 1-08-2018 |Workout  | 10 | Run (60 Minutes) |
 | 1-08-2018 |Book  | 200 | [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) |
-| 1-08-2018 |Work In Progress  |  | Pick a template proyect #1 |
+| Work In Progress |Substantial Project  | 200 | Pick a template proyect #1 |
+| Work In Progress |Book |  200| [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) |
 
 # Get Job ready - JavaScript Edition - Version 2.0
 A guide primarily focused on Frontend development, but including just enough of an introduction to Backend to enable an understanding of the "entire process" to prepare for productive entry to a Full Stack team as a confident and capable Frontend Developer.
