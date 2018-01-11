@@ -135,11 +135,11 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 
 ## Computer Science Intensive
 
-- [ ] [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+- [x] [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 - [ ] [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
-- [ ] [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
+- [x] [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
 - [ ] [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
-- [ ] [Getting Sassy with CSS](http://www.sassshop.com/#/)
+- [x] [Getting Sassy with CSS](http://www.sassshop.com/#/)
 - [ ] [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
 - [ ] [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
 - [ ] [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
