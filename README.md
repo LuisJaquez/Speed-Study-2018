@@ -13,7 +13,7 @@ My other goals are: Finish writing the book that I started 4 months ago and impr
 
 Current Course:     
 Courses Completed: 0  
-Total Points earned: 
+Total Points earned: 510
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
