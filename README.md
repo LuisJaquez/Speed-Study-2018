@@ -25,6 +25,7 @@ Total Points earned: 510
 | 1-10-2018 |Duolingo (French level 2)  | 100 | [Duolingo](https://www.duolingo.com/LuisJaquez2) |
 | 1-11-2018 |Duolingo (French level 3)  | 100 | [Duolingo](https://www.duolingo.com/LuisJaquez2) |
 | 1-13-2018 |Duolingo (English level 12)  | 100 | [Duolingo](https://www.duolingo.com/LuisJaquez2) |
+| 1-16-2018 |Duolingo (English level 13)  | 100 | [Duolingo](https://www.duolingo.com/LuisJaquez2) |
 
 # Get Job ready - JavaScript Edition - Version 2.0
 A guide primarily focused on Frontend development, but including just enough of an introduction to Backend to enable an understanding of the "entire process" to prepare for productive entry to a Full Stack team as a confident and capable Frontend Developer.
