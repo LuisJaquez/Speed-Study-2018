@@ -212,3 +212,76 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 | CodinGame (1 Bot Competition)               | 20                    | algorithms    |
 | HackerRank (10 problems)                    | 50                    | algorithms    |
 | Google Code Jam (1 round from past contest) | 100                   | algorithms    |
+
+
+
+## Books
+
+- [ ] Quien decide lo que comemos - Felicity Lawrence
+- [ ] Fueras de series - Malcolm Gladwell
+- [ ] La dimensión oculta -Edward T. Hall
+- [ ] Trabajo, consumismo y nuevos pobres - Zygmunt Bauman
+- [ ] El hambre - Martin Caparros
+- [ ] Tecnopolis - Neil Postman
+- [ ] La ultima pregunta- Issac Asimov
+- [ ] Esto es agua - David Foster Wallace
+- [ ] Rebelión en la granja = George Orwell
+- [ ] La receta del tiranosauri Rex - Issac Asimov
+- [ ] Ocaso y caída de prácticamente todo - Will Cuppy
+- [ ] Fundación - Issac Asimov
+- [ ] El mundo de Sofia - Joistein  Gaarder
+- [ ] Marque F de Frankenstein - Arthur Clarke
+- [ ] El hombre en busca del sentido - Victor Frankl
+- [ ] Orgullo y Prejuicio - Jane Austen
+- [ ] Don Quijote de la Mancha - Miguel de Cervantes
+- [ ] Las venas abiertas de América Latina - Eduardo Galeano
+- [ ] Rayuela - Julio Cortázar
+- [ ] Cien Años de Soledad - Gabriel García Márquez
+- [ ] The Undoing Project: A Friendship That Changed Our Minds - Michael Lewis
+- [ ] The Course of Love - Alain de Botton 
+- [ ] A History of Western Philosophy - Bertrand Russell
+- [ ] The Internet Of Money - Andreas M. Antonopoulos
+- [ ] The Lessons of History - Will and Ariel Durant
+- [ ] Hello My Name is Awesome - Alexandra Watkins
+- [ ] Breaking Smart — Season 1 - Venkatesh Rao
+- [ ] Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money
+- [ ] The Black Swan - Nassim Nicholas Taleb
+- [ ] El Psicoanalista - John Katzenbach
+- [ ] Weapons of Math Destruction - Cathy O’Neil
+- [ ] On the Shortness of Life - Lucius Annaeus Seneca
+- [ ] Maxims - François de La Rochefoucauld
+- [ ] A Pocket Mirror for Heroes - Baltasar Gracián
+- [ ] Meditations - Marcus Aurelius
+- [ ] Essentialism: The Disciplined Pursuit of Less - McKeown, Greg
+- [ ] On the Shortness of Life - Seneca
+- [ ] Fahrenheit 451 - Ray Bradbury
+- [ ] Invisible Man - Ellison, Ralph
+- [ ] The Importance of Being Earnest
+- [ ] Moby Dick
+- [ ] A comparative history of world philosophy : from the Upanishads to Kant
+- [ ] El libro de las ilusiones - Paul Auster.
+- [ ] Ulysses - James Joyce
+- [ ] Crónica de una muerte anunciada - Gabriel García Márquez
+- [ ] El Príncipe - Nicolas Maquiavelo
+- [ ] The Pragmatic Programmer - Andrew Hunt y David Thomas
+- [ ] CODE: The Hidden Language - Charles Petzold
+- [ ] The Mythical Man-Month - Frederick P. Brooks
+- [ ] Cracking the Coding Interview - Gayle Laakmann McDowell
+- [ ] Programming Pearls - Joe Bentley
+- [ ] Soft Skills: The software developer's life manual - John Sonmez
+- [ ] Working Effectively with Legacy Code - Michael Feathers
+- [ ] Zen and the Art of Motorcycle Maintenance - Robert M. Pirsig
+- [ ] Clean Code: A Handbook of Agile Software Craftsmanship - Robert Martin
+- [ ] Don't Make Me Think - Steve Krug
+- [ ] Grokking Algorithms
+- [ ] Refactoring: Improving the Design of Existing Code
+- [ ] Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
+- [ ] The Passionate Programmer: Creating a Remarkable Career in Software Development
+- [ ] Software Estimation: Demystifying the Black Art (Developer Best Practices)
+- [ ] Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages (Pragmatic Programmers)
+- [ ] Things Fall Apart
+- [ ] The Book of Fantasy
+- [ ] My Name is Red
+- [ ] Frankenstein
+- [ ] Alice's Adventures in Wonderland
+- [ ] A Room of One's Own
