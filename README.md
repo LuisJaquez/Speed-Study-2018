@@ -13,7 +13,7 @@ My other goals are: Finish writing the book that I started 4 months ago and impr
 
 Current Course:     
 Courses Completed: 0  
-Total Points earned: 510
+Total Points earned: 1,410
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -26,6 +26,10 @@ Total Points earned: 510
 | 1-11-2018 |Duolingo (French level 3)  | 100 | [Duolingo](https://www.duolingo.com/LuisJaquez2) |
 | 1-13-2018 |Duolingo (English level 12)  | 100 | [Duolingo](https://www.duolingo.com/LuisJaquez2) |
 | 1-16-2018 |Duolingo (English level 13)  | 100 | [Duolingo](https://www.duolingo.com/LuisJaquez2) |
+| 1-26-2018 |Duolingo (English level 14)  | 100 | [Duolingo](https://www.duolingo.com/LuisJaquez2) |
+| 1-26-2018 |Book | 200 | La ultima pregunta - Issac Asimov |
+| 1-26-2018 |Book | 200 | Esto es agua - David Foster Wallace |
+| 1-26-2018 |Book | 200 | Cien Años de Soledad - Gabriel García Márquez |
 
 # Get Job ready - JavaScript Edition - Version 2.0
 A guide primarily focused on Frontend development, but including just enough of an introduction to Backend to enable an understanding of the "entire process" to prepare for productive entry to a Full Stack team as a confident and capable Frontend Developer.
@@ -223,8 +227,8 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [ ] Trabajo, consumismo y nuevos pobres - Zygmunt Bauman
 - [ ] El hambre - Martin Caparros
 - [ ] Tecnopolis - Neil Postman
-- [ ] La ultima pregunta- Issac Asimov
-- [ ] Esto es agua - David Foster Wallace
+- [x] La ultima pregunta- Issac Asimov
+- [x] Esto es agua - David Foster Wallace
 - [ ] Rebelión en la granja = George Orwell
 - [ ] La receta del tiranosauri Rex - Issac Asimov
 - [ ] Ocaso y caída de prácticamente todo - Will Cuppy
@@ -236,7 +240,7 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [ ] Don Quijote de la Mancha - Miguel de Cervantes
 - [ ] Las venas abiertas de América Latina - Eduardo Galeano
 - [ ] Rayuela - Julio Cortázar
-- [ ] Cien Años de Soledad - Gabriel García Márquez
+- [x] Cien Años de Soledad - Gabriel García Márquez
 - [ ] The Undoing Project: A Friendship That Changed Our Minds - Michael Lewis
 - [ ] The Course of Love - Alain de Botton 
 - [ ] A History of Western Philosophy - Bertrand Russell
