@@ -34,6 +34,7 @@ Total Points earned: 1,990
 | 3-6-2018 |Book | 200 | Rebelión en la granja - George Orwell |
 | 3-6-2018 |Book | 200 | El hombre en busca del sentido - Victor Frankl |
 | 3-6-2018 |Diary entry | 5(X6) | communication |
+| 3-10-2018 |Duolingo (English level 15)  | 100 | [Duolingo](https://www.duolingo.com/LuisJaquez2) |
 
 ## Get Job ready - JavaScript Edition - Version 2.0
 
