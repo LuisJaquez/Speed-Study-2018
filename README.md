@@ -35,6 +35,8 @@ Total Points earned: 1,990
 | 3-6-2018 |Book | 200 | El hombre en busca del sentido - Victor Frankl |
 | 3-6-2018 |Diary entry | 5(X6) | communication |
 | 3-10-2018 |Duolingo (English level 15)  | 100 | [Duolingo](https://www.duolingo.com/LuisJaquez2) |
+| 3-20-2018 |Diary entry | 5 | communication |
+| 3-20-2018 |Workout  | 10 | Run (60 Minutes) |
 
 ## Get Job ready - JavaScript Edition - Version 2.0
 
