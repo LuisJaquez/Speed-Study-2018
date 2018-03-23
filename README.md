@@ -12,7 +12,7 @@ My other goals are: Finish writing the book that I started 4 months ago and impr
 
 Current Course:
 Courses Completed: 0
-Total Points earned: 1,990
+Total Points earned: 2,735
 
 | Date Finished | Activity                  | Points | Links  |
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -30,7 +30,7 @@ Total Points earned: 1,990
 | 1-26-2018 |Book | 200 | Esto es agua - David Foster Wallace |
 | 1-26-2018 |Book | 200 | Cien Años de Soledad - Gabriel García Márquez |
 | 3-6-2018 |Video Course | 50 | Entendiendo CSS Grid |
-| 3-6-2018 |Basic Proyect | 100 | Random quote machine |
+| 3-6-2018 |Substantial Project | 200 | [Random quote machine](https://luisjaquez.github.io/undertale-quote-machine/app/) |
 | 3-6-2018 |Book | 200 | Rebelión en la granja - George Orwell |
 | 3-6-2018 |Book | 200 | El hombre en busca del sentido - Victor Frankl |
 | 3-6-2018 |Diary entry | 5(X6) | communication |
@@ -41,6 +41,13 @@ Total Points earned: 1,990
 | 3-22-2018 |Workout  | 10 | Run (60 Minutes) |
 | 3-23-2018 |Diary entry | 5 | communication |
 | 3-23-2018 |Workout  | 10 | 57 Push Up |
+| 3-23-2018 |Official Docs  | 50 | TypeScript in 5 minutes |
+| 3-23-2018 |Official Docs  | 50 | Angular - About Angular |
+| 3-23-2018 |Official Docs  | 50 | Angular - Angular QuickStart |
+| 3-23-2018 |Official Docs  | 50 | Angular - Angular Tutorial |
+| 3-23-2018 |Basic Project | 100 | [CSS Challenge #10](https://codepen.io/LuisJaquez/full/WXdNNw/) |
+| 3-23-2018 |Basic Project | 100 | [CSS Challenge #11](https://codepen.io/LuisJaquez/full/WzbLZp/) |
+| 3-23-2018 |Basic Project | 100 | [CSS Challenge #12](https://codepen.io/LuisJaquez/full/MVYRQQ/) |
 
 ## Get Job ready - JavaScript Edition - Version 2.0
 
