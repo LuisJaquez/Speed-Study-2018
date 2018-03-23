@@ -48,6 +48,7 @@ Total Points earned: 2,735
 | 3-23-2018 |Basic Project | 100 | [CSS Challenge #10](https://codepen.io/LuisJaquez/full/WXdNNw/) |
 | 3-23-2018 |Basic Project | 100 | [CSS Challenge #11](https://codepen.io/LuisJaquez/full/WzbLZp/) |
 | 3-23-2018 |Basic Project | 100 | [CSS Challenge #12](https://codepen.io/LuisJaquez/full/MVYRQQ/) |
+| 3-23-2018 |Workout  | 10 | [DAREBEE-Power Cardio Program Level-1 Day-1](https://darebee.com/programs/power-cardio.html?showall=&start=1)  |
 
 ## Get Job ready - JavaScript Edition - Version 2.0
 
