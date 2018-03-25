@@ -52,6 +52,7 @@ Total Points earned: 2,735
 | 3-23-2018 |Official Docs  | 50 | [Phaser 3- Getting Started](https://phaser.io/tutorials/getting-started-phaser3) |
 | 3-24-2018 |Workout  | 10 | [DAREBEE- 10K Punches Challenge Day 1](https://darebee.com/challenges/10k-punches-challenge.html)  |
 | 3-24-2018 |Workout  | 10 | [DAREBEE- Foundation Program Level-3 Day-1](https://darebee.com/programs/foundation-program.html?showall=&start=1)  |
+| 3-24-2018 |Diary entry | 5 | communication |
 
 ## Get Job ready - JavaScript Edition - Version 2.0
 
