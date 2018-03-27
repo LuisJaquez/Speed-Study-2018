@@ -55,6 +55,8 @@ Total Points earned: 2,735
 | 3-24-2018 |Diary entry | 5 | communication |
 | 3-25-2018 |Workout  | 10 | [DAREBEE- 10K Punches Challenge Day 2](https://darebee.com/challenges/10k-punches-challenge.html)  |
 | 3-25-2018 |Workout  | 10 | [DAREBEE- Foundation Program Level-3 Day-2](https://darebee.com/programs/foundation-program.html?showall=&start=2)  |
+| 3-26-2018 |Workout  | 10 | [DAREBEE- 10K Punches Challenge Day 3](https://darebee.com/challenges/10k-punches-challenge.html)  |
+| 3-26-2018 |Workout  | 10 | [DAREBEE- Foundation Program Level-3 Day-3](https://darebee.com/programs/foundation-program.html?showall=&start=3)  |
 
 ## Get Job ready - JavaScript Edition - Version 2.0
 
