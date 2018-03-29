@@ -57,6 +57,10 @@ Total Points earned: 2,735
 | 3-25-2018 |Workout  | 10 | [DAREBEE- Foundation Program Level-3 Day-2](https://darebee.com/programs/foundation-program.html?showall=&start=2)  |
 | 3-26-2018 |Workout  | 10 | [DAREBEE- 10K Punches Challenge Day 3](https://darebee.com/challenges/10k-punches-challenge.html)  |
 | 3-26-2018 |Workout  | 10 | [DAREBEE- Foundation Program Level-3 Day-3](https://darebee.com/programs/foundation-program.html?showall=&start=3)  |
+| 3-27-2018 |Workout  | 10 | [DAREBEE- 10K Punches Challenge Day 4](https://darebee.com/challenges/10k-punches-challenge.html)  |
+| 3-27-2018 |Workout  | 10 | [DAREBEE- Foundation Program Level-3 Day-4](https://darebee.com/programs/foundation-program.html?showall=&start=4)  |
+| 3-28-2018 |Workout  | 10 | [DAREBEE- 10K Punches Challenge Day 5](https://darebee.com/challenges/10k-punches-challenge.html)  |
+| 3-28-2018 |Workout  | 10 | [DAREBEE- Foundation Program Level-3 Day-5](https://darebee.com/programs/foundation-program.html?showall=&start=3)  |
 
 ## Get Job ready - JavaScript Edition - Version 2.0
 
