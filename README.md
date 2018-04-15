@@ -10,9 +10,9 @@ My other goals are: Finish writing the book that I started 4 months ago and impr
 
 ## Progress
 
-Current Course:
+Current Course: You Don't Know JS: this & Object Prototypes
 Courses Completed: 0
-Total Points earned: 2,735
+Total Points earned: 3,380
 
 | Date Finished | Activity                  | Points | Links  |
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -61,6 +61,14 @@ Total Points earned: 2,735
 | 3-27-2018 |Workout  | 10 | [DAREBEE- Foundation Program Level-3 Day-4](https://darebee.com/programs/foundation-program.html?showall=&start=4)  |
 | 3-28-2018 |Workout  | 10 | [DAREBEE- 10K Punches Challenge Day 5](https://darebee.com/challenges/10k-punches-challenge.html)  |
 | 3-28-2018 |Workout  | 10 | [DAREBEE- Foundation Program Level-3 Day-5](https://darebee.com/programs/foundation-program.html?showall=&start=3)  |
+| 4-14-2018 |Workout  | 10 | [DAREBEE- Foundation Program Level-3 Day-1](https://darebee.com/programs/foundation-program.html?showall=&start=1)  |
+| 4-14-2018 |Workout  | 10 | [DAREBEE- 10K Punches Challenge Day 1](https://darebee.com/challenges/10k-punches-challenge.html)  |
+| 4-14-2018 |Workout  | 10 | [DAREBEE- 50 Pushups A Day Challenge Day 1](https://darebee.com/challenges/50-pushups-a-day-challenge.html)  |
+| 4-14-2018 |Workout  | 10 | [DAREBEE- Jump Rope Challenge Day 1](https://darebee.com/challenges/jump-rope-challenge.html)  |
+| 4-15-2018 |Workout  | 10 | [DAREBEE- Foundation Program Level-3 Day-2](https://darebee.com/programs/foundation-program.html?showall=&start=1)  |
+| 4-15-2018 |Workout  | 10 | [DAREBEE- 10K Punches Challenge Day 2](https://darebee.com/challenges/10k-punches-challenge.html)  |
+| 4-15-2018 |Workout  | 10 | [DAREBEE- 50 Pushups A Day Challenge Day 2](https://darebee.com/challenges/50-pushups-a-day-challenge.html)  |
+| 4-15-2018 |Workout  | 10 | [DAREBEE- Jump Rope Challenge Day 2](https://darebee.com/challenges/jump-rope-challenge.html)  |
 
 ## Get Job ready - JavaScript Edition - Version 2.0
 
