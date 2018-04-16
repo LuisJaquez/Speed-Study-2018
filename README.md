@@ -65,10 +65,15 @@ Total Points earned: 3,380
 | 4-14-2018 |Workout  | 10 | [DAREBEE- 10K Punches Challenge Day 1](https://darebee.com/challenges/10k-punches-challenge.html)  |
 | 4-14-2018 |Workout  | 10 | [DAREBEE- 50 Pushups A Day Challenge Day 1](https://darebee.com/challenges/50-pushups-a-day-challenge.html)  |
 | 4-14-2018 |Workout  | 10 | [DAREBEE- Jump Rope Challenge Day 1](https://darebee.com/challenges/jump-rope-challenge.html)  |
-| 4-15-2018 |Workout  | 10 | [DAREBEE- Foundation Program Level-3 Day-2](https://darebee.com/programs/foundation-program.html?showall=&start=1)  |
+| 4-15-2018 |Workout  | 10 | [DAREBEE- Foundation Program Level-3 Day-2](https://darebee.com/programs/foundation-program.html?showall=&start=2)  |
 | 4-15-2018 |Workout  | 10 | [DAREBEE- 10K Punches Challenge Day 2](https://darebee.com/challenges/10k-punches-challenge.html)  |
 | 4-15-2018 |Workout  | 10 | [DAREBEE- 50 Pushups A Day Challenge Day 2](https://darebee.com/challenges/50-pushups-a-day-challenge.html)  |
 | 4-15-2018 |Workout  | 10 | [DAREBEE- Jump Rope Challenge Day 2](https://darebee.com/challenges/jump-rope-challenge.html)  |
+| 4-16-2018 |Workout  | 10 | [DAREBEE- Foundation Program Level-3 Day-3](https://darebee.com/programs/foundation-program.html?showall=&start=3)  |
+| 4-16-2018 |Workout  | 10 | [DAREBEE- 10K Punches Challenge Day 3](https://darebee.com/challenges/10k-punches-challenge.html)  |
+| 4-16-2018 |Workout  | 10 | [DAREBEE- 50 Pushups A Day Challenge Day 3](https://darebee.com/challenges/50-pushups-a-day-challenge.html)  |
+| 4-16-2018 |Workout  | 10 | [DAREBEE- Jump Rope Challenge Day 3](https://darebee.com/challenges/jump-rope-challenge.html)  |
+| 4-16-2018 |Workout  | 10 | [10K Crunches Challenge Day 1](https://darebee.com/challenges/10k-crunches-challenge.html)  |
 
 ## Get Job ready - JavaScript Edition - Version 2.0
 
